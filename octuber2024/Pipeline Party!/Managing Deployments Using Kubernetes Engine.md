@@ -1,6 +1,6 @@
 ## Managing Deployments Using Kubernetes Engine || [GSP053]
 
-### 🔗 **Solution Video:** [Watch Here](https://youtu.be/su_bKowi7o8)
+### 🔗 **Solution Video:** [Watch Here]()
 
 ```bash
 export ZONE=

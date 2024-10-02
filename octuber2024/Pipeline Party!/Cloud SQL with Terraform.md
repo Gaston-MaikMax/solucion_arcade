@@ -1,4 +1,4 @@
-## Cloud SQL with Terraform || [GSP234]
+# Cloud SQL with Terraform || [GSP234]
 
 ### 🔗 **Solution Video:** [Watch Here]()
 
